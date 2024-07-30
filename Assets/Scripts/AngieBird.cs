@@ -8,6 +8,8 @@ public class AngieBird : MonoBehaviour
     private CircleCollider2D _circleCollider;
     private bool _hasBeenLaunched;
     private bool _shouldFaceVelDirection;
+    public LevelCompleteScreen LevelCompleteScreen;
+
 
     private void Awake() 
     {
@@ -43,6 +45,18 @@ public class AngieBird : MonoBehaviour
     private void OnCollisionEnter2D(Collision2D collision)
     {
         _shouldFaceVelDirection = false;
+        if (collision.gameObject.CompareTag("fish"))
+        {
+            Debug.Log("Hello hit");
+            LevelComplete();
+        }
+        if (collision.gameObject.name == ("Cat"))
+        {
+            Debug.Log("Hello hit");
+            LevelComplete();
+        }
     }
-
+    public void LevelComplete()
+    {
+    }
 }

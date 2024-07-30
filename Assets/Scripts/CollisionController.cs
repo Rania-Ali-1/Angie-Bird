@@ -1,20 +1,23 @@
 using System.Collections;
 using System.Collections.Generic;
+using UnityEngine.SceneManagement;
 using UnityEngine;
 
 public class CollisionController : MonoBehaviour
 {
-    public void OnCollisionEnter2D(Collision2D collision)
+    public CanvasController canvasController; // Reference to the CanvasController
+
+    private void OnTriggerEnter2D(Collider2D other)
     {
-        if (collision.gameObject.CompareTag == "fish")
+        if (other.gameObject.name == "Cat")
         {
+            canvasController.ShowCanvas(); // Show the Canvas when the object named "Cat" triggers the collider
             LevelComplete();
         }
     }
 
     public void LevelComplete()
     {
-
+        // Your level complete logic here
     }
-
 }
