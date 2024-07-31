@@ -45,16 +45,7 @@ public class AngieBird : MonoBehaviour
     private void OnCollisionEnter2D(Collision2D collision)
     {
         _shouldFaceVelDirection = false;
-        if (collision.gameObject.CompareTag("fish"))
-        {
-            Debug.Log("Hello hit");
-            LevelComplete();
-        }
-        if (collision.gameObject.name == ("Cat"))
-        {
-            Debug.Log("Hello hit");
-            LevelComplete();
-        }
+      
     }
     public void LevelComplete()
     {

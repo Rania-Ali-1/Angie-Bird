@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 197823477524400505}
   m_Layer: 0
   m_Name: Angie Bird
-  m_TagString: Untagged
+  m_TagString: fish
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -161,3 +161,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ed0030f2c90297b46b16c8dc8e43b790, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  LevelCompleteScreen: {fileID: 0}

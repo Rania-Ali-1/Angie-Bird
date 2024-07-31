@@ -14,9 +14,15 @@ public class CanvasController : MonoBehaviour
     // Method to hide the Canvas
     public void HideCanvas()
     {
-        CanvasLevelComplete.gameObject.SetActive(false);
+        if (CanvasLevelComplete != null)
+        {
+            CanvasLevelComplete.gameObject.SetActive(false);
+        }
+        else
+        {
+            Debug.LogError("CanvasLevelComplete is not assigned in the inspector.");
+        }
     }
-
     // Method to show the Canvas
     public void ShowCanvas()
     {
