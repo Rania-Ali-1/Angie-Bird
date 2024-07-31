@@ -6,9 +6,11 @@ public class GameManager : MonoBehaviour
 {
     public static GameManager instance;
     public int MaxNumberOfShots = 3;
+    [SerializeField] private float _secondsToWaitBeforeDeathCheck = 3f;
+
     private int _usedNumberOfShots = 0; // Initialize to 0
     private IconHandler _iconHandler;
-
+    private ScoreHandler _scoreHandler;
     private void Awake()
     {
         if (instance == null)
@@ -36,6 +38,7 @@ public class GameManager : MonoBehaviour
             Debug.LogWarning("No more shots available!");
             GameOver();
         }
+        CheckForLastShot();
     }
 
     public bool HasEnoughShots()
@@ -48,6 +51,11 @@ public class GameManager : MonoBehaviour
     {
         return MaxNumberOfShots - _usedNumberOfShots;
     }
+    
+    public void CalScore()
+    {
+       // _scoreHandler.ScoreCalc(_usedNumberOfShots);
+    }
 
     // Game Over method
     private void GameOver()
@@ -55,5 +63,17 @@ public class GameManager : MonoBehaviour
         Debug.Log("Game Over!");
         // Implement game over logic here
         // For example, show a game over screen or restart the level
+    }
+
+    public void CheckForLastShot()
+    {
+        if(_usedNumberOfShots == MaxNumberOfShots)
+        {
+            StartCoroutine(CheckAfterWaitTime());
+        }
+    }
+    private IEnumerator CheckAfterWaitTime()
+    {
+        yield return new WaitForSeconds(_secondsToWaitBeforeDeathCheck);
     }
 }
