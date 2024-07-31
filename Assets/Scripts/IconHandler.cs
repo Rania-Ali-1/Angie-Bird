@@ -10,10 +10,10 @@ public class IconHandler : MonoBehaviour
 
     public void UseShot(int shotNumber)
     {
+        // Loop through the icons array
         for (int i = 0; i < _icons.Length; i++)
         {
-
-            if (shotNumber == i + 1)
+            if (shotNumber == i + 1) // Adjust for one-based shotNumber
             {
                 _icons[i].color = _usedColor;
                 return;

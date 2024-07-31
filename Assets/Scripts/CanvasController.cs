@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class CanvasController : MonoBehaviour
 {
-    public Canvas CanvasLevelComplete; // Reference to the Canvas
+    public Canvas LevelCompleteRevised; // Reference to the Canvas
 
     private void Start()
     {
@@ -14,9 +14,9 @@ public class CanvasController : MonoBehaviour
     // Method to hide the Canvas
     public void HideCanvas()
     {
-        if (CanvasLevelComplete != null)
+        if (LevelCompleteRevised != null)
         {
-            CanvasLevelComplete.gameObject.SetActive(false);
+            LevelCompleteRevised.gameObject.SetActive(false);
         }
         else
         {
@@ -26,6 +26,6 @@ public class CanvasController : MonoBehaviour
     // Method to show the Canvas
     public void ShowCanvas()
     {
-        CanvasLevelComplete.gameObject.SetActive(true);
+        LevelCompleteRevised.gameObject.SetActive(true);
     }
 }
