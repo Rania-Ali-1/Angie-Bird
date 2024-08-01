@@ -23,7 +23,6 @@ public class CanvasController : MonoBehaviour
             Debug.LogError("CanvasLevelComplete is not assigned in the inspector.");
         }
     }
-    // Method to show the Canvas
     public void ShowCanvas()
     {
         LevelCompleteRevised.gameObject.SetActive(true);

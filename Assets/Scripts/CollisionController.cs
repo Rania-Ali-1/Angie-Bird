@@ -11,7 +11,7 @@ public class CollisionController : MonoBehaviour
     {
         if (other.gameObject.name == "Angie Bird")
         {
-            Debug.Log("hiii");
+            Debug.Log("Success");
             canvasController.ShowCanvas(); // Show the Canvas when the object named "Cat" triggers the collider
             LevelComplete();
         }
@@ -20,11 +20,12 @@ public class CollisionController : MonoBehaviour
     {
         if (collision.gameObject.name == "Angie Bird" || collision.gameObject.CompareTag("fish"))
         {
-            Debug.Log("hiii");
+            Debug.Log("Success");
             canvasController.ShowCanvas(); // Show the Canvas when the object named "Angie Bird" or tagged "fish" triggers the collider
             LevelComplete();
         }
     }
+
     public void LevelComplete()
     {
         // Your level complete logic here

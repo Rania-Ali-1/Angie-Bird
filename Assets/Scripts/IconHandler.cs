@@ -7,6 +7,16 @@ public class IconHandler : MonoBehaviour
 {
     [SerializeField] private Image[] _icons;
     [SerializeField] private Color _usedColor;
+    [SerializeField] private Color _defaultColor; // Add this to store the default color
+
+    private void Start()
+    {
+        // Set the default color for each icon at the start
+        foreach (var icon in _icons)
+        {
+            icon.color = _defaultColor;
+        }
+    }
 
     public void UseShot(int shotNumber)
     {
@@ -18,6 +28,15 @@ public class IconHandler : MonoBehaviour
                 _icons[i].color = _usedColor;
                 return;
             }
+        }
+    }
+
+    public void ResetIcon()
+    {
+        // Reset all icons to their default color
+        foreach (var icon in _icons)
+        {
+            icon.color = _defaultColor;
         }
     }
 }
