@@ -101,6 +101,22 @@ public class SlingshotHandler : MonoBehaviour
         _rightLineRenderer.SetPosition(0, position);
         _rightLineRenderer.SetPosition(1, _rightStartPosition.position);
     }
+
+    public void ResetSlingshot()
+    {
+        // Destroy any existing AngieBird instance
+        if (_spawnedAngieBird != null)
+        {
+            Destroy(_spawnedAngieBird.gameObject);
+        }
+
+        _leftLineRenderer.enabled = false;
+        _rightLineRenderer.enabled = false;
+
+        // Optionally, you can re-initialize slingshot position or any other state
+        SpawnAngieBird();
+    }
+
     #endregion
 
     #region Angie Bird Methods
@@ -129,7 +145,5 @@ public class SlingshotHandler : MonoBehaviour
         yield return new WaitForSeconds(_timeBetweenBirdRespawns);
         SpawnAngieBird();
     }
-    //this is a bit weird but for returning number 
-
     #endregion
 }

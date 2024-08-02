@@ -20,6 +20,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GameOverRevised
       objectReference: {fileID: 0}
+    - target: {fileID: 2550634609551575819, guid: afd3e9a2c1e68f44cac120e77c781409, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2914718205319943999, guid: afd3e9a2c1e68f44cac120e77c781409, type: 3}
       propertyPath: m_Name
       value: RestartBtn

@@ -6,8 +6,14 @@ public class CanvasController : MonoBehaviour
 {
     public Canvas LevelCompleteRevised; // Reference to the Canvas
 
+    private void Awake()
+    {
+        DontDestroyOnLoad(gameObject);
+
+    }
     private void Start()
     {
+
         HideCanvas(); // Hide the Canvas at the start
     }
 

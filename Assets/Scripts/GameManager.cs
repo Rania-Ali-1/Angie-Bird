@@ -1,6 +1,6 @@
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
@@ -8,15 +8,15 @@ public class GameManager : MonoBehaviour
     public int MaxNumberOfShots = 3;
     [SerializeField] private float _secondsToWaitBeforeDeathCheck = 3f;
 
-    private int _usedNumberOfShots = 0; // Initialize to 0
+    private int _usedNumberOfShots = 0;
     private IconHandler _iconHandler;
     private ScoreHandler _scoreHandler;
 
     public CanvasController canvasController;
     public GameOverCanvas gameOverCanvas;
 
-    private bool _gameOver = false; // Track game over state
-    public Canvas GameOverRevised; // Reference to the Canvas
+    private bool _gameOver = false;
+    public Canvas GameOverRevised;
 
     private void Awake()
     {
@@ -37,6 +37,21 @@ public class GameManager : MonoBehaviour
         }
     }
 
+    private void OnEnable()
+    {
+        SceneManager.sceneLoaded += OnSceneLoaded;
+    }
+
+    private void OnDisable()
+    {
+        SceneManager.sceneLoaded -= OnSceneLoaded;
+    }
+
+    private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
+    {
+        ResetGameState();
+    }
+
     public void UseShot()
     {
         if (HasEnoughShots())
@@ -48,7 +63,7 @@ public class GameManager : MonoBehaviour
         else
         {
             Debug.LogWarning("No more shots available!");
-            if (!_gameOver) // Only call GameOver if not already called
+            if (!_gameOver)
             {
                 _usedNumberOfShots = 0;
                 GameOver();
@@ -73,11 +88,17 @@ public class GameManager : MonoBehaviour
 
     private void GameOver()
     {
-        if (_gameOver) return; // Avoid multiple calls to GameOver
+        if (_gameOver) return;
         _gameOver = true;
         Debug.Log("Game Over!");
-        gameOverCanvas.ShowGoCanvas();
-        GameOverRevised.gameObject.SetActive(true);
+        if (gameOverCanvas != null)
+        {
+            gameOverCanvas.ShowGoCanvas();
+        }
+        if (GameOverRevised != null)
+        {
+            GameOverRevised.gameObject.SetActive(true);
+        }
     }
 
     public void CheckForLastShot()
@@ -91,7 +112,7 @@ public class GameManager : MonoBehaviour
     private IEnumerator CheckAfterWaitTime()
     {
         yield return new WaitForSeconds(_secondsToWaitBeforeDeathCheck);
-        if (!_gameOver) // Ensure GameOver is only called if not already set
+        if (!_gameOver)
         {
             GameOver();
         }
@@ -101,7 +122,33 @@ public class GameManager : MonoBehaviour
     {
         _usedNumberOfShots = 0;
         _gameOver = false;
-        _iconHandler.ResetIcon(); // Ensure this method is defined in IconHandler
-        // Optionally, reset other game state components here
+
+        if (_iconHandler != null)
+        {
+            _iconHandler.ResetIcon(); // Ensure this method safely handles null checks
+        }
+        else
+        {
+            Debug.LogWarning("IconHandler reference is missing.");
+        }
+
+        if (gameOverCanvas != null)
+        {
+            gameOverCanvas.gameObject.SetActive(false);
+        }
+        else
+        {
+            Debug.LogWarning("GameOverCanvas reference is missing.");
+        }
+
+        if (GameOverRevised != null)
+        {
+            GameOverRevised.gameObject.SetActive(false);
+        }
+        else
+        {
+            Debug.LogWarning("GameOverRevised reference is missing.");
+        }
     }
+
 }
