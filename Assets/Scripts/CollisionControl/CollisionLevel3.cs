@@ -1,6 +1,5 @@
 using System.Collections;
 using System.Collections.Generic;
-using UnityEngine.SceneManagement;
 using UnityEngine;
 
 public class CollisionLevel3 : MonoBehaviour
@@ -12,13 +11,14 @@ public class CollisionLevel3 : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.gameObject.name == "Cat")
+        // Check if the collider belongs to one of the tagged objects
+        if (other.CompareTag("cat"))
         {
             hasHitCat = true;
             Debug.Log("Cat Triggered");
             CheckAndShowCanvas();
         }
-        else if (other.gameObject.name == "Cat2")
+        else if (other.CompareTag("cat2"))
         {
             hasHitCat2 = true;
             Debug.Log("Cat2 Triggered");
@@ -28,13 +28,15 @@ public class CollisionLevel3 : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.name == "Cat")
+        Debug.Log("heyy");
+        // Check if the collided object belongs to one of the tagged objects
+        if (collision.gameObject.name == "Angie Bird" || collision.gameObject.CompareTag("fish"))
         {
             hasHitCat = true;
             Debug.Log("Cat Collided");
             CheckAndShowCanvas();
         }
-        else if (collision.gameObject.name == "Cat2")
+        else if (collision.gameObject.name == "Angie Bird" || collision.gameObject.CompareTag("fish"))
         {
             hasHitCat2 = true;
             Debug.Log("Cat2 Collided");
@@ -44,16 +46,27 @@ public class CollisionLevel3 : MonoBehaviour
 
     private void CheckAndShowCanvas()
     {
+        Debug.Log($"CheckAndShowCanvas: hasHitCat = {hasHitCat}, hasHitCat2 = {hasHitCat2}");
+
         // Show the canvas only if both conditions are met
         if (hasHitCat && hasHitCat2)
         {
-            canvasController.ShowCanvas();
-            LevelComplete();
+            if (canvasController != null)
+            {
+                Debug.Log("Showing Canvas");
+                canvasController.ShowCanvas();
+                LevelComplete();
+            }
+            else
+            {
+                Debug.LogError("CanvasController is not assigned!");
+            }
         }
     }
 
     public void LevelComplete()
     {
+        Debug.Log("Level Complete");
         // Your level complete logic here
     }
 }

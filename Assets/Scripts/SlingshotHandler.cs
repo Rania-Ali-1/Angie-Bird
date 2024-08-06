@@ -1,5 +1,4 @@
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -16,7 +15,7 @@ public class SlingshotHandler : MonoBehaviour
     [SerializeField] private Transform _idlePosition;
 
     [Header("Slingshot Stats")]
-    [SerializeField] private float _maxDistance = 3.5f;
+    [SerializeField] private float _maxDistance = 5.5f;
     [SerializeField] private float _shotForce = 5f;
     [SerializeField] private float _timeBetweenBirdRespawns;
 
@@ -27,12 +26,14 @@ public class SlingshotHandler : MonoBehaviour
     [SerializeField] private AngieBird _angieBirdPrefab;
     [SerializeField] private float _angieBirdPositionOffset = 2f;
 
+  
     private Vector2 _slingShotLinesPosition;
     private Vector2 _direction;
     private Vector2 _directionNormalized;
 
     private bool _clickedWithinArea;
     private bool _birdOnSlingshot;
+  
 
     private AngieBird _spawnedAngieBird;
 
@@ -46,23 +47,27 @@ public class SlingshotHandler : MonoBehaviour
 
     private void Update()
     {
-        if (_slingShotArea != null && Mouse.current.leftButton.wasPressedThisFrame && _slingShotArea.IsWithinSlingshotArea())
+        if (InputManager.WasLeftMouseButtonPressed && _slingShotArea.IsWithinSlingshotArea())
         {
             _clickedWithinArea = true;
+            
         }
 
-        if (Mouse.current.leftButton.isPressed && _clickedWithinArea && _birdOnSlingshot)
+        if (InputManager.IsLeftMouseButtonPressed && _clickedWithinArea && _birdOnSlingshot)
         {
             DrawSlingShot();
             PositionAndRotateAngieBird();
+          
         }
 
-        if (Mouse.current.leftButton.wasReleasedThisFrame && _birdOnSlingshot)
+        if (InputManager.WasLeftMouseButtonReleased && _birdOnSlingshot)
         {
             if (GameManager.instance.HasEnoughShots())
             {
                 _clickedWithinArea = false;
                 _birdOnSlingshot = false;
+
+              
 
                 _spawnedAngieBird.LaunchBird(_direction, _shotForce);
                 GameManager.instance.UseShot();
@@ -79,7 +84,8 @@ public class SlingshotHandler : MonoBehaviour
 
     private void DrawSlingShot()
     {
-        Vector3 touchPosition = Camera.main.ScreenToWorldPoint(Mouse.current.position.ReadValue());
+        Vector3 touchPosition = Camera.main.ScreenToWorldPoint(InputManager.MousePosition);
+
         _slingShotLinesPosition = _centerPosition.position + Vector3.ClampMagnitude(touchPosition - _centerPosition.position, _maxDistance);
         SetLines(_slingShotLinesPosition);
 

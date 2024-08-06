@@ -6,6 +6,6 @@ public class ResumeBtnLevel2Controller : MonoBehaviour
 {
     public void Resume()
     {
-        SceneManager.LoadScene("Level3");
+        SceneManager.LoadScene("Level_3");
     }
 }

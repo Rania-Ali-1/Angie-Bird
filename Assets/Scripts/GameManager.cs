@@ -7,7 +7,7 @@ public class GameManager : MonoBehaviour
     public static GameManager instance;
     public int MaxNumberOfShots = 3;
     [SerializeField] private float _secondsToWaitBeforeDeathCheck = 3f;
-
+   
     private int _usedNumberOfShots = 0;
     private IconHandler _iconHandler;
     private ScoreHandler _scoreHandler;
@@ -81,9 +81,9 @@ public class GameManager : MonoBehaviour
         return MaxNumberOfShots - _usedNumberOfShots;
     }
 
-    public void CalScore()
+   public void NextLevel()
     {
-        // _scoreHandler.ScoreCalc(_usedNumberOfShots);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
 
     private void GameOver()
@@ -152,3 +152,4 @@ public class GameManager : MonoBehaviour
     }
 
 }
+

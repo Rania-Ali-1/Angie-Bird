@@ -126,10 +126,10 @@ TextureImporter:
       name: PC Computer - Travellers Rest - Orange Cat_0
       rect:
         serializedVersion: 2
-        x: 366
-        y: 287
-        width: 23
-        height: 30
+        x: 14
+        y: 387
+        width: 20
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -139,6 +139,5130 @@ TextureImporter:
       bones: []
       spriteID: 318af6dc1048e3e4e84a0e307402d6da
       internalID: -1278482185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 387
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdf70d6abe4dcd4c90e2736f24bb14c
+      internalID: 673863775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 388
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f88005cfa17cbd4f9f79b25cfc7e19e
+      internalID: 1352778489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_3
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 388
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca14b62a2bfe654baedb070f0b09897
+      internalID: -993946797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_4
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 388
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ec602414ef047428c9e8776f6d5a63
+      internalID: -1703651909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_5
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 388
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c210242a54f86438222b759ba9a7df
+      internalID: 1597788927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_6
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 388
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decfd8ec5dff2b24bb394510f0b58db7
+      internalID: 102357924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_7
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 388
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0c0cb57e5bc62438e215e24ff9afd1
+      internalID: 2110359485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_8
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 387
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8babbc9f4e232a44c9cc3770eb8b7f59
+      internalID: 2068639854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_9
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 387
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c466cc61a43e15b4eb8eddb24005f35b
+      internalID: 1444979108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_10
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 387
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8f269af96bf054c9485fdfe6c9afd9
+      internalID: -2010386337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_11
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 387
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e455f6d07741c0544a9a7bec5de74685
+      internalID: -1124798272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_12
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 386
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17314c6663591f74a910c85c000d8d35
+      internalID: -1265751023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_13
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 385
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553f79261521cb04a8c6127d92b2785c
+      internalID: 889127595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_14
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 385
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45b3fa0f2c32aa49a892c80746ea902
+      internalID: 502992854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_15
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 384
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa94a71d95cfbc4a98fe174f4fc80c1
+      internalID: -2024206444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_16
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 386
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0d629bb9cd0d046a5283cec22de6e6
+      internalID: 1893531091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_17
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 385
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366bff724d7fc5e43b5a0accd50d8a4c
+      internalID: -522610839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_18
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 385
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9da421f0a59db845acf8087ef934976
+      internalID: -1034176933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_19
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 384
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9372b7cc8b21546a71e45ff5538822
+      internalID: -569301430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_20
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 387
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80a216194e4533489c4e889705e21ba
+      internalID: -1385824555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_21
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 387
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8233df7e5c7f19469dc6ae4404b31e6
+      internalID: -266417598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_22
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 387
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4a2dc77cd50504c82417f458bd0412
+      internalID: 1893602805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_23
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 387
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982c38afd6f51b842b957011b8747d56
+      internalID: -1658285431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_24
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 387
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a306fc1fdd87b3d41983b2aeea401e27
+      internalID: 62946660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_25
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 387
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb26b4c34e281f42b7326ae14ff6aa3
+      internalID: -1776747716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_26
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 387
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae79d4751fbff9a498d191ad440aa069
+      internalID: -2115633246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_27
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 387
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ad1f940fb789e4082d93f5dfb3eb5c
+      internalID: -894582342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_28
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 387
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a292fd1b52d0f494883cecbb943c5a54
+      internalID: -413457922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_29
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 387
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d842d41254186fa458170443c8763bf5
+      internalID: -1793618135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_30
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 387
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007149cedcf30f34dbd56d0435941abd
+      internalID: -1016322281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_31
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 387
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f378a5b4bea3d49ab8f5a787fe305b
+      internalID: -1937568157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_32
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 387
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc5fc525ca72f44abe2c93de16091d7
+      internalID: -1276428900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_33
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 387
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a886af4d021cc7a40ab0efebbbbc23f0
+      internalID: 600575977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_34
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 387
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8271adee145930a48874f3e74f9a750a
+      internalID: -1241088275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_35
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 387
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded161053254601498519cb0ad4db7f6
+      internalID: 369432437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_36
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 387
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3136501e020344d8117c0227b1cda1
+      internalID: 2122692710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_37
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 387
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ffbdea84e5f3643914e4f45f797128
+      internalID: 626626536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_38
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 387
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c28e6b0d35848c4196032c7bc7a91b8
+      internalID: -1603868308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_39
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 387
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fa8d137ef6a1449919aee5dbab1034
+      internalID: -781922525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_40
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 337
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c07827499b81343ba5bf838082854e
+      internalID: 1836186648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 337
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582fc9952236ec345a8129570e9d8dda
+      internalID: -287134374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_42
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 337
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad58a4bbed12dd4e8cf13a679aae61e
+      internalID: 1584443037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_43
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 337
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b672138ba61505645a897d0ac2b70dc0
+      internalID: 1773544376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_44
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 337
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434b2ae4a7eec7f449661477eaa4ba08
+      internalID: 161770244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_45
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 337
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f210edee99e0648a195ed9bebdf6db
+      internalID: -286157784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_46
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 337
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2f8bb4b630d004993b3acf8ca6a437
+      internalID: 656230179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_47
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 337
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97aab04293400624885edb48e5c87df0
+      internalID: 1987157578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_48
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 337
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8a941c08f428a4c93ed90e5f93c598
+      internalID: 554451067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_49
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 335
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150f10f078eb350479644ee9afe339e5
+      internalID: -343177093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_50
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 337
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22c60767495e0f46802b929ae6a908e
+      internalID: 612201498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_51
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 336
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cba1e0f5b7a184faab2772170a958a
+      internalID: -1423604563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_52
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 335
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f51b629694f95b43b2543a0e5d916e1
+      internalID: 756029212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_53
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 335
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5c2bff1157b2744bf403ff9d3b6e16
+      internalID: 23965380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_54
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 335
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446e309fa9d012b4aa1d18aea9269594
+      internalID: -64131306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_55
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 335
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bda63042a186604da31b370fb41e077
+      internalID: -1402146332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_56
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 335
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf872ae3c8a06441876aba31714c93e
+      internalID: -1376209654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_57
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 335
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace1c8d9ca2b1a64b8bebde779289203
+      internalID: 616936174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_58
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 335
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae5b3f59b7bf1a48b720b3ee1b2dcde
+      internalID: -338025913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_59
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 336
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99316690028db6042b67b5f19bceec26
+      internalID: 2102071246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_60
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 337
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62cc06c37c1c0f4ab596e4e004074c3
+      internalID: 431334050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_61
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 337
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05395445a3e3deb4199826030fa27b14
+      internalID: 887584359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_62
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 338
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdd20dbf5f877f478c301422b396009
+      internalID: 40781840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_63
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 338
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1545230e15d53854aae9a0b82b79f933
+      internalID: 20458700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_64
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 338
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f684d9fc5e469d488a53bf89707cf7c
+      internalID: -436944653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_65
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 338
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bcfc50f26caae47a215f69541449eb
+      internalID: 1544918394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_66
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 338
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476b65970e221e14ca7ff722cd7d12cf
+      internalID: -1204749724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_67
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 338
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7214ccfd9e4b5034eb82531ffe237cd3
+      internalID: 742608171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_68
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 338
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3486c345fcfc04a499e57e711e16daaf
+      internalID: 1344553276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_69
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 335
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bb9ca601887f74c8650ae34aaecc37
+      internalID: -329140258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_70
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 333
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f19efc8ff32d948abd1afe2cac9242
+      internalID: -742428364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_71
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 333
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb0487e2f13933458ede4b1b0b55208
+      internalID: -1146927191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_72
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 333
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e00c92e50c32244841ec65d33484a3
+      internalID: 351977740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_73
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 333
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d71ba5eeebf6e4595f2a58471e16cf
+      internalID: -1436168695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_74
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 333
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56e658fd11c33d479a6490f708077f6
+      internalID: 111322542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_75
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 333
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d5421a6572ff24ea010ee366476901
+      internalID: 1739894905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_76
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 335
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd2e01d1127a13499c8b79a38f79e63
+      internalID: -1126661370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_77
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 336
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5fa05873565bf4494092fbbff123b0
+      internalID: -505848721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_78
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 338
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc2deaae023b8844a081f9a9166f1fd
+      internalID: 456445213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_79
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 338
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9064b1272145ab54da90bf655d97a547
+      internalID: -1819037365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_80
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 288
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f831bc0335fd178419db7f8e0dc63b86
+      internalID: 1827409565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_81
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 288
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ab9f23242ba6842b0aa93c39b83d07
+      internalID: 25572343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_82
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 288
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370234de19c16314284efe8b32893ebd
+      internalID: -106210753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_83
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 288
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91d1628be5132145a9868e6f4547da4
+      internalID: -645468557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_84
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 288
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c86c69443e045544abda06220b268b6
+      internalID: -1892719207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_85
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 288
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21671c89a99799246a7091efd1d88f4b
+      internalID: -1535530749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_86
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 288
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb93962451f5eb4a8139fa4afc987d9
+      internalID: -1906671188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_87
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 288
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d319bc9d4cbc7df45b6fae00a5a257c9
+      internalID: -643777210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_88
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 288
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee113bc5579c2c4cbb9132026a312cd
+      internalID: -1103943305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_89
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 288
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e206d87443720fd43a5c5aa4ca1f1848
+      internalID: -1355332183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_90
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 284
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8dabb61b1615b4bbe15e9c25bb6365
+      internalID: 734356685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_91
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 285
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f5a8826a2caaa4ca3cae34f02c5cbd
+      internalID: 1945622328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_92
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 286
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdce486e70c6e6f4aa64d264702106ee
+      internalID: 2109051590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_93
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 283
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe8f0c6d082c5a448f385483fdab6f3
+      internalID: -58576700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_94
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 284
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2168815e910ba4290128732f348998
+      internalID: -157128996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_95
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 285
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15af16843b960e44c94b64ad6cc0ade5
+      internalID: -612324732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_96
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 286
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78535a3577af5a54f8d32a4ad9690896
+      internalID: 491885578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_97
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 283
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f7a0ff74fb9574981d20ba20f71ed9
+      internalID: -208519668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_98
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 288
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bdf877cd625394aa467783501dc519
+      internalID: 61886848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_99
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 288
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a89513cd53d4e046b714962c073f57a
+      internalID: 1937860234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_100
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 288
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bf97e7af4f30248b972b0317ddd80c
+      internalID: 958540099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_101
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 288
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa7fcccf12acc548ab7705b64716a03
+      internalID: 1132373438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_102
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 288
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c04ef36c771ce94f8cd3170ebdfe8b2
+      internalID: 598036576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_103
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 288
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7d1fc6735b262449e0f367efa47805
+      internalID: 1380571584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_104
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 288
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae33b88503179e478cf85d9006b83c0
+      internalID: 1449875952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_105
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 288
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941cc2edf30cfbc4c8ca0cc9ea21d2e0
+      internalID: -1339914216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_106
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 288
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0222ab975f51f4b4fba02a8aaebdeb89
+      internalID: -1295127940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_107
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 288
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bfb2591ac07804bbe93555d53e2c1c
+      internalID: 330868398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_108
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 288
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfab47aa040d7c4dbf4a7e53f2c970c
+      internalID: -1144747718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_109
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 288
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28fbad5921214047a927cac2328e82f
+      internalID: 1206519482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_110
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 288
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c5fc63aea597c489e7689ab7d4d50e
+      internalID: 1121583437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_111
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 288
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13027c5eae203e5468e373174c56b24f
+      internalID: 1509996045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_112
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 288
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888ac9a612d806348b2f51e4c3f62ff0
+      internalID: -934261995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_113
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 288
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0948308f30820e049a29d7816771dd7a
+      internalID: 399745264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_114
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 288
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf29bf24475ed794c8fbe7fc34bc3c43
+      internalID: -769808348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_115
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 288
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1341c3f727dfc0648952d70e45b41cbb
+      internalID: -860476341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_116
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 288
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2255fe083ccdfca41a91bf80cb45617e
+      internalID: 168976264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_117
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 288
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee5b9ce9335f5b4898e7de90dca03d6
+      internalID: -344403763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_118
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 288
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0207ee6756e166a4598d60930d7781c9
+      internalID: 1505172692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_119
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 288
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c52917b4ccd4443a3eb66f497f6a75
+      internalID: -23040846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_120
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 238
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f6d2d7b16da604aacb2b17c3345832
+      internalID: -241089067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_121
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 238
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b7f75d3529d8f4d8f358280cc14358
+      internalID: 1179991797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_122
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 238
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed3e4fcfa7f29048a580c72caa5afd8
+      internalID: -402079746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_123
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 238
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d33335cbe01404998e8e3b3f487802
+      internalID: -1998391610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_124
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 238
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d776bd5e77383394fabccffc14e64221
+      internalID: -31628060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_125
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 238
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b3be53a89c39d4e8a4452c50668eab
+      internalID: 1602438316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_126
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 238
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecfffdc2f67dcd49ad5809e9875c225
+      internalID: -2081046546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_127
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 238
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c42cabe6c5f8d49a46df1acecebc12
+      internalID: 1910069849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_128
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 238
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45dc157816a96674fb79556ec2006afb
+      internalID: 697353578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_129
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 237
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedd9ee479f37954a84c11348d0af2e4
+      internalID: -800150716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_130
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 235
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae5044b31e77b54186d409cd3085335
+      internalID: -2107308740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_131
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 233
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6cb93e65018a1428ec2cb7eca413cc
+      internalID: -1414371266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_132
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 233
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b85cdac2445118489265c86d82809f0
+      internalID: 298327783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_133
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 234
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd6e46986aedfc4b99a1180db440e95
+      internalID: -1005491361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_134
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 233
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a807feeb724f34497628e2bf86536d
+      internalID: -838251201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_135
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 234
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3636fefaa464241852362b65c552a8
+      internalID: -54206201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_136
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 234
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87792e577f96d3d4fbbeb9cbe4f6d32c
+      internalID: 1596826402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_137
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 237
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1416e3ffe163d4a418844b08200b7e19
+      internalID: 2104355900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_138
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 238
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2347b7b1366fc4aa53d06c466f9929
+      internalID: 227834932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_139
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 238
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b7de0634fcabf4f9ff92d1df35f114
+      internalID: 1172522035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_140
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 238
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fabe4c500eb0ca47b86adca0110c89a
+      internalID: 88884174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_141
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 238
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261a2b7ba76847e4ab80db4732bf8515
+      internalID: -1799611695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_142
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 238
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdb3aba2699f204695afe04339e5f07
+      internalID: 723253503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_143
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 237
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede03e8c1e885814e992b5b986b72ac4
+      internalID: 46447305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_144
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 235
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca22d14e523c7f44c8d55cbc4e0fb4eb
+      internalID: -1460488111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_145
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 235
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d63501b6c720e4f84b152d3cf1d962
+      internalID: 1048309613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_146
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 235
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb21701fbbe87f40a8c31f6439bdbd9
+      internalID: -1652430443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_147
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 235
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1492bdf5f999f5a4a95b17175a47c3a3
+      internalID: -1013021099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_148
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 235
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d884b4c16ee653049b89af586a8d5aec
+      internalID: 1876342612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_149
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 235
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f708b530607fc43917d14d26893d5d
+      internalID: 1658165226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_150
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 234
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94310550f328a243952766cf138d795
+      internalID: 1980579978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_151
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 232
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287657117548ae241bd6e141486efba3
+      internalID: 1794998012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_152
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 230
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec5e48734f69fc44b7ddd599ed60fef
+      internalID: -714865848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_153
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 230
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d5de05b49e02446a0d821f657bd4b4
+      internalID: -2101774866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_154
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 230
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36e283d2b651904b98b6972eb6fe594
+      internalID: 1066684020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_155
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 230
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc807ac29c80a34d8d7c224ff2186c1
+      internalID: 497755159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_156
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 230
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ba2d469867f5b419286c12264a7b9d
+      internalID: 691116583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_157
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 232
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c159658c219d163409880bd7f93c9527
+      internalID: 2002402017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_158
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 235
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d27758d923c9647b5c529aa1cb3821
+      internalID: 581333575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_159
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 239
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e6d2a07de91b44b8ecef0acc59e735
+      internalID: -1428858915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_160
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 188
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c5a4b2d89d9d6459894df9f30a78e8
+      internalID: 241238573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_161
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 188
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d68839defc7ab4a8ca75bdc133d03c
+      internalID: 1353998205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_162
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 180
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4322969a16b76514eb0739ecb9bc3bcd
+      internalID: -1350423512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_163
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 180
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcf5eb3077d2994ba4f9ea078810f11
+      internalID: 1851581929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_164
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 180
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c7d7515017779449747fa5eeaa54e6
+      internalID: 1426085641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_165
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 180
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7262ecdeecdad4b48a2e85dfcfe0cab2
+      internalID: -1052570311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_166
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 186
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e20c6f8ae148a4e8ee1f32bb30d3aa
+      internalID: -1137261474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_167
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 186
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53dc6b94a6ab78f48b50301255864256
+      internalID: 974126510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_168
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 186
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace0494c9fb9ac044a114e4ae60110a0
+      internalID: -565345935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_169
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 188
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ad2c38dc87c5d4e959f8695bc75276
+      internalID: -250278238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_170
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 188
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86fe462e82c2054daa8c560c0469f14
+      internalID: -1410954760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_171
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 188
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10acbe3ee079e9944a8a92440de8d601
+      internalID: -100742921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_172
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 188
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcaa69828379ca24eb3a0a2b77d07123
+      internalID: -1313705296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_173
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 188
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b811e02296a5841488dcee5b7986ef87
+      internalID: -1272582791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_174
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 188
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7793a0b69796f454db3c2f7aa08f0ecc
+      internalID: 1499254529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_175
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 185
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae277fba82756884ba5180f8b6aa7146
+      internalID: 952045630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_176
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 186
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419925fcf2e5adc43a13ab37e9bcda33
+      internalID: 1065424898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_177
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 186
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2945ec5dee50004e82f30fbcf2f37db
+      internalID: -1336130962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_178
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 189
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d4036b38e8a224cbabbc80813262e9
+      internalID: 1415745294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_179
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 189
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a3d6651d2780443892e8ff873e52a7
+      internalID: -78132114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_180
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 189
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f72311e0b92207449482598dd330e0a
+      internalID: -154383810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_181
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 189
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc1b100bd1639649b56db79ad4ee231
+      internalID: -406230917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_182
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 190
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91482c4a1594a2e4382951d5c3c79462
+      internalID: -2025620249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_183
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 189
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c05cbf3d98bf7a4bb6adde018f78aaf
+      internalID: -809451754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_184
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 189
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de77650a392b4f44bb221abc6b2ee6a6
+      internalID: -1047703069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_185
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 189
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8aaec5d72ddec4592c744871033a26
+      internalID: -169280233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_186
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 186
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0ee49c4dae9fb4e9d0bda8e389f280
+      internalID: 320914768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_187
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 186
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9ef47f82605534885028608bc14e25
+      internalID: -924999821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_188
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 186
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef537a6e1a3d427419b8bd894d9500d8
+      internalID: -713250858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_189
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 186
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644b6b52112d4e74db42346edb4cda1a
+      internalID: 788721643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_190
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 186
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a67b68807447843bc229b96f88b07e
+      internalID: -2055143301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_191
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 186
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2893d4615ef280c4e8ffdb78edb4628d
+      internalID: 806738951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_192
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 186
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4c8fc807a45074e8ba70af16afc951
+      internalID: -1405335724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_193
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 186
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dde315e042175945a8967c195be748c
+      internalID: -533068659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_194
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 186
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30faf4e67675bf347bbee47798d90488
+      internalID: -1794695422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_195
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 186
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f15b7836a4a1c4b8016eb09c3326f6
+      internalID: 1458516813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_196
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 186
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d492242cf57bd46488767c99ddc3b132
+      internalID: 386906211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_197
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 186
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4600aeb2c610d4cb2148bf89924fc1
+      internalID: -701730381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_198
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 186
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7bd88eac515214f902241b1887e580
+      internalID: 2098808122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_199
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 186
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b89a1efdbc7f494a96c741864a101ff
+      internalID: -1374114927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_200
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 136
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb36ec96cc16754289136e21e619c17
+      internalID: 1547004559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_201
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 136
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bf64ecc79b8e646a0e98c661401384
+      internalID: -68208633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_202
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 136
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cedb6f45543c8a4eada9dfb1bd795ad
+      internalID: -366525485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_203
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 136
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a15a75182b6664f90817299b776141
+      internalID: 78282244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_204
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 136
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f09165bc57be16418149a9ffe60b418
+      internalID: 946874090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_205
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 136
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a814ba301b6cd40a2cd27210e62c42
+      internalID: 1717239126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_206
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 136
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e513f3d92c1f1ee4388a61c16e2a7a9d
+      internalID: 730667565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_207
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 136
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d016f7987c71cd74abb3ba3424589339
+      internalID: 202910718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_208
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 136
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d2c80eb39963a439715af1de0cddfe
+      internalID: -1920794380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_209
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 136
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f20a0cbb0420841bd7f7d3cafaad08
+      internalID: 558227775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_210
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 136
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49215153a089fec44baf4b835c7f27d3
+      internalID: 37918047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_211
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 136
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882f4e86a0ff79041ab111e137de945c
+      internalID: 1873302764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_212
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 136
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef0288198e88994d8983312e7156463
+      internalID: -1788884232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_213
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 136
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52108662ef2f6914b95441f2492d92d8
+      internalID: 870321660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_214
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 136
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6742b2784ac87244bb13e7152dcb6403
+      internalID: -1602897081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_215
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 136
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8ece281c34a0649bdf68ede36d2332
+      internalID: -1052729809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_216
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 138
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaee3e6129f9ed04397b74c91e4b9a53
+      internalID: 214267098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_217
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 138
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c94829a65cdee64fa74b629e266dc88
+      internalID: 565234086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_218
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 138
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b52da8c58ad8a498c4cbe1c646e573
+      internalID: 986187556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_219
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 138
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3c6b6e182cacb46b4dfa4612ce59c7
+      internalID: -1373729768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_220
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 138
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c1b1e1728b2ae44ad595047417f44f
+      internalID: 2117726065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_221
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 138
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fa537734381044bbf024bfc0bb3b78
+      internalID: -1482756989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_222
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 138
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3e3f8acb8735c4394d5e19fc8895da
+      internalID: -836945647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_223
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 138
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59ad7649ba3bb748aea1d2490d35b52
+      internalID: 552919815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_224
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 138
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dab33cfe24f2f14f9176556f6042526
+      internalID: 2097562378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_225
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 138
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96787b4aa0279a74ca84c4f3967bb872
+      internalID: 463781786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_226
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 138
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86fb596b13715740b3a8a6cfb4d0f50
+      internalID: 727954455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_227
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 138
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2704d5e021fea4394f002656bc4507
+      internalID: 851834695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_228
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 112
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5815b24cf421874a84d043f3f2afee0
+      internalID: -767128929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_229
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 110
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792d08992d3ff484e915fd704b2525a1
+      internalID: 873451339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_230
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 110
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f4d7e315da71e48bd66ac1dddc79f8
+      internalID: -716669605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_231
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 110
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646d54ed7f25bfd46b03ed4a55e41724
+      internalID: -113849822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_232
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 88
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778198eba19cd084698e1338634d523e
+      internalID: -946312839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_233
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 88
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84fabb2e2e360e438a1566501604096
+      internalID: -1261559406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_234
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 88
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c13f3b43b35644fad36bd109fab35c
+      internalID: 887985954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_235
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 88
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10129191b4f223f488d20ecb07bde84b
+      internalID: 1212842942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_236
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 66
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a9935c17b560e4582872f25d418ce0
+      internalID: 1937187410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_237
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 45
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0617fd3a81d67c428b6f4a2bf87f3ac
+      internalID: 747704525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_238
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 45
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cbbe9f7f1f2dd4b93298edc2535440
+      internalID: 1728260507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_239
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 45
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d799484200a7e1b44a67e83dac399eae
+      internalID: 1782286055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_240
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 45
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de509efd310f814383bc4f2841defed
+      internalID: -253471759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_241
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 23
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddd14ca6d3181841a20d2e99c2c1c39
+      internalID: -1570487874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_242
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 23
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd296e9512a60714eab0cf6e81433e7b
+      internalID: 1490651276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_243
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 23
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fad3493518dea74ab1cd2cbb9dd3e70
+      internalID: -1980090863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Travellers Rest - Orange Cat_244
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 23
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df71fb4513f72a941a049c06d9f4e46d
+      internalID: 1208176072
       vertices: []
       indices: 
       edges: []
@@ -155,6 +5279,250 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       PC Computer - Travellers Rest - Orange Cat_0: -1278482185
+      PC Computer - Travellers Rest - Orange Cat_1: 673863775
+      PC Computer - Travellers Rest - Orange Cat_10: -2010386337
+      PC Computer - Travellers Rest - Orange Cat_100: 958540099
+      PC Computer - Travellers Rest - Orange Cat_101: 1132373438
+      PC Computer - Travellers Rest - Orange Cat_102: 598036576
+      PC Computer - Travellers Rest - Orange Cat_103: 1380571584
+      PC Computer - Travellers Rest - Orange Cat_104: 1449875952
+      PC Computer - Travellers Rest - Orange Cat_105: -1339914216
+      PC Computer - Travellers Rest - Orange Cat_106: -1295127940
+      PC Computer - Travellers Rest - Orange Cat_107: 330868398
+      PC Computer - Travellers Rest - Orange Cat_108: -1144747718
+      PC Computer - Travellers Rest - Orange Cat_109: 1206519482
+      PC Computer - Travellers Rest - Orange Cat_11: -1124798272
+      PC Computer - Travellers Rest - Orange Cat_110: 1121583437
+      PC Computer - Travellers Rest - Orange Cat_111: 1509996045
+      PC Computer - Travellers Rest - Orange Cat_112: -934261995
+      PC Computer - Travellers Rest - Orange Cat_113: 399745264
+      PC Computer - Travellers Rest - Orange Cat_114: -769808348
+      PC Computer - Travellers Rest - Orange Cat_115: -860476341
+      PC Computer - Travellers Rest - Orange Cat_116: 168976264
+      PC Computer - Travellers Rest - Orange Cat_117: -344403763
+      PC Computer - Travellers Rest - Orange Cat_118: 1505172692
+      PC Computer - Travellers Rest - Orange Cat_119: -23040846
+      PC Computer - Travellers Rest - Orange Cat_12: -1265751023
+      PC Computer - Travellers Rest - Orange Cat_120: -241089067
+      PC Computer - Travellers Rest - Orange Cat_121: 1179991797
+      PC Computer - Travellers Rest - Orange Cat_122: -402079746
+      PC Computer - Travellers Rest - Orange Cat_123: -1998391610
+      PC Computer - Travellers Rest - Orange Cat_124: -31628060
+      PC Computer - Travellers Rest - Orange Cat_125: 1602438316
+      PC Computer - Travellers Rest - Orange Cat_126: -2081046546
+      PC Computer - Travellers Rest - Orange Cat_127: 1910069849
+      PC Computer - Travellers Rest - Orange Cat_128: 697353578
+      PC Computer - Travellers Rest - Orange Cat_129: -800150716
+      PC Computer - Travellers Rest - Orange Cat_13: 889127595
+      PC Computer - Travellers Rest - Orange Cat_130: -2107308740
+      PC Computer - Travellers Rest - Orange Cat_131: -1414371266
+      PC Computer - Travellers Rest - Orange Cat_132: 298327783
+      PC Computer - Travellers Rest - Orange Cat_133: -1005491361
+      PC Computer - Travellers Rest - Orange Cat_134: -838251201
+      PC Computer - Travellers Rest - Orange Cat_135: -54206201
+      PC Computer - Travellers Rest - Orange Cat_136: 1596826402
+      PC Computer - Travellers Rest - Orange Cat_137: 2104355900
+      PC Computer - Travellers Rest - Orange Cat_138: 227834932
+      PC Computer - Travellers Rest - Orange Cat_139: 1172522035
+      PC Computer - Travellers Rest - Orange Cat_14: 502992854
+      PC Computer - Travellers Rest - Orange Cat_140: 88884174
+      PC Computer - Travellers Rest - Orange Cat_141: -1799611695
+      PC Computer - Travellers Rest - Orange Cat_142: 723253503
+      PC Computer - Travellers Rest - Orange Cat_143: 46447305
+      PC Computer - Travellers Rest - Orange Cat_144: -1460488111
+      PC Computer - Travellers Rest - Orange Cat_145: 1048309613
+      PC Computer - Travellers Rest - Orange Cat_146: -1652430443
+      PC Computer - Travellers Rest - Orange Cat_147: -1013021099
+      PC Computer - Travellers Rest - Orange Cat_148: 1876342612
+      PC Computer - Travellers Rest - Orange Cat_149: 1658165226
+      PC Computer - Travellers Rest - Orange Cat_15: -2024206444
+      PC Computer - Travellers Rest - Orange Cat_150: 1980579978
+      PC Computer - Travellers Rest - Orange Cat_151: 1794998012
+      PC Computer - Travellers Rest - Orange Cat_152: -714865848
+      PC Computer - Travellers Rest - Orange Cat_153: -2101774866
+      PC Computer - Travellers Rest - Orange Cat_154: 1066684020
+      PC Computer - Travellers Rest - Orange Cat_155: 497755159
+      PC Computer - Travellers Rest - Orange Cat_156: 691116583
+      PC Computer - Travellers Rest - Orange Cat_157: 2002402017
+      PC Computer - Travellers Rest - Orange Cat_158: 581333575
+      PC Computer - Travellers Rest - Orange Cat_159: -1428858915
+      PC Computer - Travellers Rest - Orange Cat_16: 1893531091
+      PC Computer - Travellers Rest - Orange Cat_160: 241238573
+      PC Computer - Travellers Rest - Orange Cat_161: 1353998205
+      PC Computer - Travellers Rest - Orange Cat_162: -1350423512
+      PC Computer - Travellers Rest - Orange Cat_163: 1851581929
+      PC Computer - Travellers Rest - Orange Cat_164: 1426085641
+      PC Computer - Travellers Rest - Orange Cat_165: -1052570311
+      PC Computer - Travellers Rest - Orange Cat_166: -1137261474
+      PC Computer - Travellers Rest - Orange Cat_167: 974126510
+      PC Computer - Travellers Rest - Orange Cat_168: -565345935
+      PC Computer - Travellers Rest - Orange Cat_169: -250278238
+      PC Computer - Travellers Rest - Orange Cat_17: -522610839
+      PC Computer - Travellers Rest - Orange Cat_170: -1410954760
+      PC Computer - Travellers Rest - Orange Cat_171: -100742921
+      PC Computer - Travellers Rest - Orange Cat_172: -1313705296
+      PC Computer - Travellers Rest - Orange Cat_173: -1272582791
+      PC Computer - Travellers Rest - Orange Cat_174: 1499254529
+      PC Computer - Travellers Rest - Orange Cat_175: 952045630
+      PC Computer - Travellers Rest - Orange Cat_176: 1065424898
+      PC Computer - Travellers Rest - Orange Cat_177: -1336130962
+      PC Computer - Travellers Rest - Orange Cat_178: 1415745294
+      PC Computer - Travellers Rest - Orange Cat_179: -78132114
+      PC Computer - Travellers Rest - Orange Cat_18: -1034176933
+      PC Computer - Travellers Rest - Orange Cat_180: -154383810
+      PC Computer - Travellers Rest - Orange Cat_181: -406230917
+      PC Computer - Travellers Rest - Orange Cat_182: -2025620249
+      PC Computer - Travellers Rest - Orange Cat_183: -809451754
+      PC Computer - Travellers Rest - Orange Cat_184: -1047703069
+      PC Computer - Travellers Rest - Orange Cat_185: -169280233
+      PC Computer - Travellers Rest - Orange Cat_186: 320914768
+      PC Computer - Travellers Rest - Orange Cat_187: -924999821
+      PC Computer - Travellers Rest - Orange Cat_188: -713250858
+      PC Computer - Travellers Rest - Orange Cat_189: 788721643
+      PC Computer - Travellers Rest - Orange Cat_19: -569301430
+      PC Computer - Travellers Rest - Orange Cat_190: -2055143301
+      PC Computer - Travellers Rest - Orange Cat_191: 806738951
+      PC Computer - Travellers Rest - Orange Cat_192: -1405335724
+      PC Computer - Travellers Rest - Orange Cat_193: -533068659
+      PC Computer - Travellers Rest - Orange Cat_194: -1794695422
+      PC Computer - Travellers Rest - Orange Cat_195: 1458516813
+      PC Computer - Travellers Rest - Orange Cat_196: 386906211
+      PC Computer - Travellers Rest - Orange Cat_197: -701730381
+      PC Computer - Travellers Rest - Orange Cat_198: 2098808122
+      PC Computer - Travellers Rest - Orange Cat_199: -1374114927
+      PC Computer - Travellers Rest - Orange Cat_2: 1352778489
+      PC Computer - Travellers Rest - Orange Cat_20: -1385824555
+      PC Computer - Travellers Rest - Orange Cat_200: 1547004559
+      PC Computer - Travellers Rest - Orange Cat_201: -68208633
+      PC Computer - Travellers Rest - Orange Cat_202: -366525485
+      PC Computer - Travellers Rest - Orange Cat_203: 78282244
+      PC Computer - Travellers Rest - Orange Cat_204: 946874090
+      PC Computer - Travellers Rest - Orange Cat_205: 1717239126
+      PC Computer - Travellers Rest - Orange Cat_206: 730667565
+      PC Computer - Travellers Rest - Orange Cat_207: 202910718
+      PC Computer - Travellers Rest - Orange Cat_208: -1920794380
+      PC Computer - Travellers Rest - Orange Cat_209: 558227775
+      PC Computer - Travellers Rest - Orange Cat_21: -266417598
+      PC Computer - Travellers Rest - Orange Cat_210: 37918047
+      PC Computer - Travellers Rest - Orange Cat_211: 1873302764
+      PC Computer - Travellers Rest - Orange Cat_212: -1788884232
+      PC Computer - Travellers Rest - Orange Cat_213: 870321660
+      PC Computer - Travellers Rest - Orange Cat_214: -1602897081
+      PC Computer - Travellers Rest - Orange Cat_215: -1052729809
+      PC Computer - Travellers Rest - Orange Cat_216: 214267098
+      PC Computer - Travellers Rest - Orange Cat_217: 565234086
+      PC Computer - Travellers Rest - Orange Cat_218: 986187556
+      PC Computer - Travellers Rest - Orange Cat_219: -1373729768
+      PC Computer - Travellers Rest - Orange Cat_22: 1893602805
+      PC Computer - Travellers Rest - Orange Cat_220: 2117726065
+      PC Computer - Travellers Rest - Orange Cat_221: -1482756989
+      PC Computer - Travellers Rest - Orange Cat_222: -836945647
+      PC Computer - Travellers Rest - Orange Cat_223: 552919815
+      PC Computer - Travellers Rest - Orange Cat_224: 2097562378
+      PC Computer - Travellers Rest - Orange Cat_225: 463781786
+      PC Computer - Travellers Rest - Orange Cat_226: 727954455
+      PC Computer - Travellers Rest - Orange Cat_227: 851834695
+      PC Computer - Travellers Rest - Orange Cat_228: -767128929
+      PC Computer - Travellers Rest - Orange Cat_229: 873451339
+      PC Computer - Travellers Rest - Orange Cat_23: -1658285431
+      PC Computer - Travellers Rest - Orange Cat_230: -716669605
+      PC Computer - Travellers Rest - Orange Cat_231: -113849822
+      PC Computer - Travellers Rest - Orange Cat_232: -946312839
+      PC Computer - Travellers Rest - Orange Cat_233: -1261559406
+      PC Computer - Travellers Rest - Orange Cat_234: 887985954
+      PC Computer - Travellers Rest - Orange Cat_235: 1212842942
+      PC Computer - Travellers Rest - Orange Cat_236: 1937187410
+      PC Computer - Travellers Rest - Orange Cat_237: 747704525
+      PC Computer - Travellers Rest - Orange Cat_238: 1728260507
+      PC Computer - Travellers Rest - Orange Cat_239: 1782286055
+      PC Computer - Travellers Rest - Orange Cat_24: 62946660
+      PC Computer - Travellers Rest - Orange Cat_240: -253471759
+      PC Computer - Travellers Rest - Orange Cat_241: -1570487874
+      PC Computer - Travellers Rest - Orange Cat_242: 1490651276
+      PC Computer - Travellers Rest - Orange Cat_243: -1980090863
+      PC Computer - Travellers Rest - Orange Cat_244: 1208176072
+      PC Computer - Travellers Rest - Orange Cat_25: -1776747716
+      PC Computer - Travellers Rest - Orange Cat_26: -2115633246
+      PC Computer - Travellers Rest - Orange Cat_27: -894582342
+      PC Computer - Travellers Rest - Orange Cat_28: -413457922
+      PC Computer - Travellers Rest - Orange Cat_29: -1793618135
+      PC Computer - Travellers Rest - Orange Cat_3: -993946797
+      PC Computer - Travellers Rest - Orange Cat_30: -1016322281
+      PC Computer - Travellers Rest - Orange Cat_31: -1937568157
+      PC Computer - Travellers Rest - Orange Cat_32: -1276428900
+      PC Computer - Travellers Rest - Orange Cat_33: 600575977
+      PC Computer - Travellers Rest - Orange Cat_34: -1241088275
+      PC Computer - Travellers Rest - Orange Cat_35: 369432437
+      PC Computer - Travellers Rest - Orange Cat_36: 2122692710
+      PC Computer - Travellers Rest - Orange Cat_37: 626626536
+      PC Computer - Travellers Rest - Orange Cat_38: -1603868308
+      PC Computer - Travellers Rest - Orange Cat_39: -781922525
+      PC Computer - Travellers Rest - Orange Cat_4: -1703651909
+      PC Computer - Travellers Rest - Orange Cat_40: 1836186648
+      PC Computer - Travellers Rest - Orange Cat_41: -287134374
+      PC Computer - Travellers Rest - Orange Cat_42: 1584443037
+      PC Computer - Travellers Rest - Orange Cat_43: 1773544376
+      PC Computer - Travellers Rest - Orange Cat_44: 161770244
+      PC Computer - Travellers Rest - Orange Cat_45: -286157784
+      PC Computer - Travellers Rest - Orange Cat_46: 656230179
+      PC Computer - Travellers Rest - Orange Cat_47: 1987157578
+      PC Computer - Travellers Rest - Orange Cat_48: 554451067
+      PC Computer - Travellers Rest - Orange Cat_49: -343177093
+      PC Computer - Travellers Rest - Orange Cat_5: 1597788927
+      PC Computer - Travellers Rest - Orange Cat_50: 612201498
+      PC Computer - Travellers Rest - Orange Cat_51: -1423604563
+      PC Computer - Travellers Rest - Orange Cat_52: 756029212
+      PC Computer - Travellers Rest - Orange Cat_53: 23965380
+      PC Computer - Travellers Rest - Orange Cat_54: -64131306
+      PC Computer - Travellers Rest - Orange Cat_55: -1402146332
+      PC Computer - Travellers Rest - Orange Cat_56: -1376209654
+      PC Computer - Travellers Rest - Orange Cat_57: 616936174
+      PC Computer - Travellers Rest - Orange Cat_58: -338025913
+      PC Computer - Travellers Rest - Orange Cat_59: 2102071246
+      PC Computer - Travellers Rest - Orange Cat_6: 102357924
+      PC Computer - Travellers Rest - Orange Cat_60: 431334050
+      PC Computer - Travellers Rest - Orange Cat_61: 887584359
+      PC Computer - Travellers Rest - Orange Cat_62: 40781840
+      PC Computer - Travellers Rest - Orange Cat_63: 20458700
+      PC Computer - Travellers Rest - Orange Cat_64: -436944653
+      PC Computer - Travellers Rest - Orange Cat_65: 1544918394
+      PC Computer - Travellers Rest - Orange Cat_66: -1204749724
+      PC Computer - Travellers Rest - Orange Cat_67: 742608171
+      PC Computer - Travellers Rest - Orange Cat_68: 1344553276
+      PC Computer - Travellers Rest - Orange Cat_69: -329140258
+      PC Computer - Travellers Rest - Orange Cat_7: 2110359485
+      PC Computer - Travellers Rest - Orange Cat_70: -742428364
+      PC Computer - Travellers Rest - Orange Cat_71: -1146927191
+      PC Computer - Travellers Rest - Orange Cat_72: 351977740
+      PC Computer - Travellers Rest - Orange Cat_73: -1436168695
+      PC Computer - Travellers Rest - Orange Cat_74: 111322542
+      PC Computer - Travellers Rest - Orange Cat_75: 1739894905
+      PC Computer - Travellers Rest - Orange Cat_76: -1126661370
+      PC Computer - Travellers Rest - Orange Cat_77: -505848721
+      PC Computer - Travellers Rest - Orange Cat_78: 456445213
+      PC Computer - Travellers Rest - Orange Cat_79: -1819037365
+      PC Computer - Travellers Rest - Orange Cat_8: 2068639854
+      PC Computer - Travellers Rest - Orange Cat_80: 1827409565
+      PC Computer - Travellers Rest - Orange Cat_81: 25572343
+      PC Computer - Travellers Rest - Orange Cat_82: -106210753
+      PC Computer - Travellers Rest - Orange Cat_83: -645468557
+      PC Computer - Travellers Rest - Orange Cat_84: -1892719207
+      PC Computer - Travellers Rest - Orange Cat_85: -1535530749
+      PC Computer - Travellers Rest - Orange Cat_86: -1906671188
+      PC Computer - Travellers Rest - Orange Cat_87: -643777210
+      PC Computer - Travellers Rest - Orange Cat_88: -1103943305
+      PC Computer - Travellers Rest - Orange Cat_89: -1355332183
+      PC Computer - Travellers Rest - Orange Cat_9: 1444979108
+      PC Computer - Travellers Rest - Orange Cat_90: 734356685
+      PC Computer - Travellers Rest - Orange Cat_91: 1945622328
+      PC Computer - Travellers Rest - Orange Cat_92: 2109051590
+      PC Computer - Travellers Rest - Orange Cat_93: -58576700
+      PC Computer - Travellers Rest - Orange Cat_94: -157128996
+      PC Computer - Travellers Rest - Orange Cat_95: -612324732
+      PC Computer - Travellers Rest - Orange Cat_96: 491885578
+      PC Computer - Travellers Rest - Orange Cat_97: -208519668
+      PC Computer - Travellers Rest - Orange Cat_98: 61886848
+      PC Computer - Travellers Rest - Orange Cat_99: 1937860234
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

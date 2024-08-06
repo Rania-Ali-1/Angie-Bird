@@ -2,11 +2,11 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-
-public class MainMenu : MonoBehaviour
+public class ResumeBtnLevel4Controller : MonoBehaviour
 {
-   public void Menu()
+    public void Resume()
     {
-        SceneManager.LoadScene("MainMenu");
+        SceneManager.LoadScene("Level5");
     }
 }
+
